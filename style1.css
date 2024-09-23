@@ -1,0 +1,38 @@
+body {
+    background: linear-gradient(90deg, blue,  rgb(183, 216, 209) 100%);
+}
+table {
+    border: 3px solid rgb(0, 255, 98);
+    margin-top: 10px;
+    border-spacing: 0;
+    width: 300px;
+    height: 180px;
+}
+td {
+    border: 2px solid rgb(0, 255, 98);
+    color: #fff;
+}
+td {
+    text-align: center;
+}
+
+.table1, .table3 {
+    margin-left: 50px;
+}
+
+.table2 {
+    margin-left: 400px;
+    position: relative;
+    bottom: 190px;
+}
+
+.table3 {
+    position: relative;
+    bottom: 180px;
+}
+
+.table4 {
+    margin-left: 400px;
+    position: relative;
+    bottom: 370px;
+}
